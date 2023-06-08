@@ -28,7 +28,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
   "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"capture_piece_sound.m4a","CopyToMask":-1,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"move_piece_sound.m4a","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "isEcma": false,
@@ -38,6 +37,7 @@
   },
   "resources": [
     {"id":{"name":"rolling_dice_sound","path":"sounds/rolling_dice_sound/rolling_dice_sound.yy",},},
+    {"id":{"name":"change_turn_sound","path":"sounds/change_turn_sound/change_turn_sound.yy",},},
     {"id":{"name":"spr_ficha_blu","path":"sprites/spr_ficha_blu/spr_ficha_blu.yy",},},
     {"id":{"name":"move_piece_sound","path":"sounds/move_piece_sound/move_piece_sound.yy",},},
     {"id":{"name":"capture_piece_sound","path":"sounds/capture_piece_sound/capture_piece_sound.yy",},},

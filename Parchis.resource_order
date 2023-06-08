@@ -16,6 +16,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"change_turn_sound","order":3,"path":"sounds/change_turn_sound/change_turn_sound.yy",},
     {"name":"move_piece_sound","order":2,"path":"sounds/move_piece_sound/move_piece_sound.yy",},
     {"name":"capture_piece_sound","order":1,"path":"sounds/capture_piece_sound/capture_piece_sound.yy",},
   ],
