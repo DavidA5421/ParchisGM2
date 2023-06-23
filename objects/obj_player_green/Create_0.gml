@@ -1,6 +1,12 @@
 /// Create Event
+pieces = array_create(4);
+for(var i = 0; i < 4; i++){
+	pieces[i] = new Piece(-1, global.piece_sprites.green);
+}
 
-playerID = 2;  // ID del jugador (0 a 3)
+playerID = 2; 
+player = new Player(playerID, pieces);
+
 global.currentTileG = 0;  // Número de casilla actual (0 a 63)
 global.carcelG = true;	//Estado de Carcel
 global.secureG = false;	//Estado de Casilla Segura

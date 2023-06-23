@@ -42,6 +42,7 @@
     {"id":{"name":"obj_player_green","path":"objects/obj_player_green/obj_player_green.yy",},},
     {"id":{"name":"spr_ficha_azul","path":"sprites/spr_ficha_azul/spr_ficha_azul.yy",},},
     {"id":{"name":"obj_player_yellow","path":"objects/obj_player_yellow/obj_player_yellow.yy",},},
+    {"id":{"name":"gameClasses","path":"scripts/gameClasses/gameClasses.yy",},},
     {"id":{"name":"spr_ficha_roja","path":"sprites/spr_ficha_roja/spr_ficha_roja.yy",},},
     {"id":{"name":"spr_ficha_yellow","path":"sprites/spr_ficha_yellow/spr_ficha_yellow.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
